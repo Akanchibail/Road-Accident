@@ -27,13 +27,13 @@ The dashboard is highly interactive and responsive, allowing users to:<br>
 🔹 Interact with all visual elements to update the dashboard in real time.<br>
 
 🗂️ Project Files<br>
-Tableau Workbook: Road AccidentProject.twb<br>
+Tableau Workbook: Road Accident Project.twb<br>
 CSV Data File: accident data.csv<br>
 
 📝 How to Run the Dashboard<br>
 Download Tableau Desktop (if not installed).<br>
-Open the Road_Accident_Dashboard.twbx file using Tableau.<br>
-Explore the dashboard using the provided dataset (Road_Accident_Data.csv).<br>
+Open the Road Accident Project.twb file using Tableau.<br>
+Explore the dashboard using the provided dataset (accident data.csv).<br>
 Use the dropdown filters to analyze different aspects of the data dynamically.<br>
 
 📢 Live Dashboard<br>
